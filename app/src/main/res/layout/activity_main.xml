@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BG_COLOR">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:background="@drawable/edit_text"
+        android:hint="@string/ENTER_IP"
+        android:paddingStart="14dp"
+        android:paddingEnd="14dp"
+        android:drawableStart="@drawable/ic_ip"
+        android:drawablePadding="10dp"
+        android:importantForAutofill="no" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circular_button_not_streaming"
+        android:text="@string/START_STREAMING"
+        android:textColor="@color/WHITE"
+        android:textSize="16sp"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>

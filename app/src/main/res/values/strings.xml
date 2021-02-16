@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">V-MIC</string>
+    <string name="write_file">Write File</string>
+    <string name="stop">Stop</string>
+    <string name="STOP_STREAMING">Stop Streaming</string>
+    <string name="START_STREAMING">Start Streaming</string>
+    <string name="ENTER_IP">Enter IP Address</string>
+</resources>

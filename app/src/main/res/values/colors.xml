@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="NOT_RECORDING">#128ACC</color>
+    <color name="NOT_RECORDING_PRESSED">#0A699E</color>
+    <color name="RECORDING">#CC1212</color>
+    <color name="RECORDING_PRESSED">#A30B0B</color>
+    <color name="BG_COLOR">#0E0E0E</color>
+    <color name="WHITE">#FFFFFF</color>
+</resources>
